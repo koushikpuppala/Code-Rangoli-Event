@@ -13,4 +13,4 @@ This Diwali, the Indian Institute of Information Technology, Raichur Code Soc Cl
 1. FREE Registration
 
 ## 📝 Submission Guideline:
-**Upload your code to GitHub and share the link as well as an image of your work via this Google form.**
+**Upload your code to GitHub and share the link as well as an image of your work via this [Google form](https://forms.gle/yNHhGvcn12aEshju9).**
